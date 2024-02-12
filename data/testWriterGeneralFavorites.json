@@ -1,0 +1,74 @@
+{
+    "recipes": [
+        {
+            "foodName": "food1",
+            "sumOfRatings": 0,
+            "numOfRatings": 0,
+            "averageRating": 0,
+            "ingredients": [
+                "i1",
+                "i2",
+                "i3"
+            ],
+            "steps": [
+                "s1",
+                "s2",
+                "s3"
+            ],
+            "cookingTime": 5
+        },
+        {
+            "foodName": "food2",
+            "sumOfRatings": 0,
+            "numOfRatings": 0,
+            "averageRating": 0,
+            "ingredients": [
+                "i4",
+                "i5",
+                "i6"
+            ],
+            "steps": [
+                "s4",
+                "s5",
+                "s6"
+            ],
+            "cookingTime": 10
+        }
+    ],
+    "bookMarkedRecipes": [
+        {
+            "foodName": "food3",
+            "sumOfRatings": 0,
+            "numOfRatings": 0,
+            "averageRating": 0,
+            "ingredients": [
+                "i7",
+                "i8",
+                "i9"
+            ],
+            "steps": [
+                "s7",
+                "s8",
+                "s9"
+            ],
+            "cookingTime": 15
+        },
+        {
+            "foodName": "food4",
+            "sumOfRatings": 0,
+            "numOfRatings": 0,
+            "averageRating": 0,
+            "ingredients": [
+                "i10",
+                "i11",
+                "i12"
+            ],
+            "steps": [
+                "s10",
+                "s11",
+                "s12"
+            ],
+            "cookingTime": 20
+        }
+    ]
+}

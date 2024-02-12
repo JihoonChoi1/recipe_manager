@@ -1,0 +1,126 @@
+{"recipes": [
+    {
+        "foodName": "adsfd",
+        "sumOfRatings": 0,
+        "numOfRatings": 0,
+        "averageRating": 0,
+        "ingredients": [
+            "da",
+            "dd",
+            "dggh"
+        ],
+        "steps": [
+            "st1",
+            "st2",
+            "st3"
+        ],
+        "cookingTime": 1
+    },
+    {
+        "foodName": "whatever",
+        "sumOfRatings": 0,
+        "numOfRatings": 0,
+        "averageRating": 0,
+        "ingredients": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "steps": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "cookingTime": 1
+    },
+    {
+        "foodName": "food2",
+        "sumOfRatings": 0,
+        "numOfRatings": 0,
+        "averageRating": 0,
+        "ingredients": [
+            "Ingredient1",
+            "Ingredient2",
+            "Ingredient3"
+        ],
+        "steps": [
+            "Step1",
+            "Step2",
+            "Step3",
+            "Step4"
+        ],
+        "cookingTime": 10
+    },
+    {
+        "foodName": "food1",
+        "sumOfRatings": 0,
+        "numOfRatings": 0,
+        "averageRating": 0,
+        "ingredients": [
+            "Ingredient1",
+            "Ingredient2",
+            "Ingredient3"
+        ],
+        "steps": [
+            "Step1",
+            "Step2",
+            "Step3",
+            "Step4"
+        ],
+        "cookingTime": 15
+    },
+    {
+        "foodName": "food3",
+        "sumOfRatings": 0,
+        "numOfRatings": 0,
+        "averageRating": 0,
+        "ingredients": [
+            "Ingredient1",
+            "Ingredient2",
+            "Ingredient3"
+        ],
+        "steps": [
+            "Step1",
+            "Step2",
+            "Step3",
+            "Step4"
+        ],
+        "cookingTime": 20
+    },
+    {
+        "foodName": "ramen",
+        "sumOfRatings": 0,
+        "numOfRatings": 0,
+        "averageRating": 0,
+        "ingredients": [
+            "noodle",
+            "soup powder",
+            "veggies"
+        ],
+        "steps": [
+            "1",
+            "2",
+            "3"
+        ],
+        "cookingTime": 30
+    },
+    {
+        "foodName": "name1",
+        "sumOfRatings": 0,
+        "numOfRatings": 0,
+        "averageRating": 0,
+        "ingredients": [
+            "1",
+            "2",
+            "3"
+        ],
+        "steps": [
+            "1",
+            "2",
+            "3"
+        ],
+        "cookingTime": 40
+    }
+]}

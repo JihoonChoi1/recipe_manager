@@ -1,0 +1,36 @@
+{"recipes": [
+    {
+        "foodName": "food1",
+        "sumOfRatings": 0,
+        "numOfRatings": 0,
+        "averageRating": 0,
+        "ingredients": [
+            "i1",
+            "i2",
+            "i3"
+        ],
+        "steps": [
+            "s1",
+            "s2",
+            "s3"
+        ],
+        "cookingTime": 5
+    },
+    {
+        "foodName": "food2",
+        "sumOfRatings": 0,
+        "numOfRatings": 0,
+        "averageRating": 0,
+        "ingredients": [
+            "i4",
+            "i5",
+            "i6"
+        ],
+        "steps": [
+            "s4",
+            "s5",
+            "s6"
+        ],
+        "cookingTime": 10
+    }
+]}

@@ -1,0 +1,96 @@
+{
+    "recipes": [
+        {
+            "foodName": "ramen",
+            "sumOfRatings": 0,
+            "numOfRatings": 0,
+            "averageRating": 0,
+            "ingredients": [
+                "noodle",
+                "soup powder",
+                "veggies"
+            ],
+            "steps": [
+                "1",
+                "2",
+                "3"
+            ],
+            "cookingTime": 30
+        },
+        {
+            "foodName": "name1",
+            "sumOfRatings": 0,
+            "numOfRatings": 0,
+            "averageRating": 0,
+            "ingredients": [
+                "1",
+                "2",
+                "3"
+            ],
+            "steps": [
+                "1",
+                "2",
+                "3"
+            ],
+            "cookingTime": 40
+        },
+        {
+            "foodName": "name2",
+            "sumOfRatings": 0,
+            "numOfRatings": 0,
+            "averageRating": 0,
+            "ingredients": [
+                "1",
+                "2",
+                "3"
+            ],
+            "steps": [
+                "1",
+                "2",
+                "3"
+            ],
+            "cookingTime": 50
+        },
+        {
+            "foodName": "random",
+            "sumOfRatings": 0,
+            "numOfRatings": 0,
+            "averageRating": 0,
+            "ingredients": [
+                "q",
+                "w",
+                "e",
+                "r",
+                "t"
+            ],
+            "steps": [
+                "a",
+                "s",
+                "d",
+                "f",
+                "g"
+            ],
+            "cookingTime": 10
+        },
+        {
+            "foodName": "tofavorite",
+            "sumOfRatings": 0,
+            "numOfRatings": 0,
+            "averageRating": 0,
+            "ingredients": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "steps": [
+                "2222",
+                "3333",
+                "4444",
+                "5555"
+            ],
+            "cookingTime": 1
+        }
+    ],
+    "bookMarkedRecipes": []
+}
